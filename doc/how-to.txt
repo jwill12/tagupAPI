@@ -1,0 +1,13 @@
+The approach I followed for this problem was to directly answer the questions in mind when it came to following the CRUD process of RESTful APIs. I wanted to make sure my API, exemplfied Creating, Reading, and Updating, and Deleting any piece of data that went in and out the system.
+
+Design wise, I choose to keep libaries fairly inhouse by using local data structures within Python. I chose to make sure I stuck with the Python dictionary structure, as their are many similiarities between it and JSONs structure. It provided for easy to use changes and updates as I paved through system design.
+
+My API essentially runs through various methods, as the CRUD process demands. Their is a create, read, update, and delete method, along with a runapi method that wraps through and drives through the problem.
+
+---    		   				    	---
+***	Make sure to follow on screen instructions.	***
+---							---
+
+How to run API through terminal/command line:
+
+python tagupAPI.py
