@@ -10,4 +10,4 @@ My API essentially runs through various methods, as the CRUD process demands. Th
 
 How to run API through terminal/command line:
 
-python tagupAPI.py
+python src/tagupAPI.py
